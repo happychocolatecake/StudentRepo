@@ -5,6 +5,7 @@ void testMethod1()
   //First command x = y + z
   //Second commnad print(x)
   //Edit made by Aishah_240063470.
+  //test edit to show commit
 
   //Last line print('Good bye')
 }
