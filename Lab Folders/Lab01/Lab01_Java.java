@@ -4,9 +4,9 @@ void testMethod1()
   {
   //First command x = y + z
   //Second commnad print(x)
-  //Edit made by aishah
+  //Edit made by Aishah_240063470.
 
-  //Last line print('Goodbye')
+  //Last line print('Good bye')
 }
 
 void testMethod2()
@@ -21,4 +21,5 @@ void main()
     testMethod1();
     testMethod2();
 }
+
 
